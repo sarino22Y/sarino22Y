@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarino</h1>
-<h3 align="center">A passionate web and mobile developer</h3>
+<h3 align="center">I am a Full Stack Developer with 4+ years of experience in developing enterprise applications</h3>
 <p align="left">
 </p>
 
