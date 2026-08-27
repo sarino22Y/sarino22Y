@@ -58,5 +58,5 @@ une application pour pratiquer l'anglais avec l'aide de l'IA.
 <p align="center">
 📫 Toujours partant pour discuter d'un projet qui a du sens.
 <br>
-<a href="#">LinkedIn</a> · <a href="https://sarino.dinagency.tech">Portfolio</a>
+<a href="https://www.linkedin.com/in/sarino-malalanirina-081b46176/">LinkedIn</a> · <a href="https://portfolio-sarino.vercel.app/">Portfolio</a>
 </p>
